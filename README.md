@@ -15,7 +15,7 @@
 
 ## Setup 🔧
 
-You can also download the binary and executable version of the program from ..... and you can run it using the following commands with go cli:
+You can also download the binary and executable version of the program from [releases](https://github.com/MohammadRanjbar1122/go-simpleHttpFileServer/releases/) and you can run it using the following commands with go cli:
 
 ```shell
 go mod tidy
