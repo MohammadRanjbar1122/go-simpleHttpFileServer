@@ -13,3 +13,5 @@ vless://bcbed298-883b-479c-90d7-e124024020b3@51.75.65.119:8880?security=reality&
 vless://89cd9ed3-ae39-4d65-a764-14d0363323f0@95.164.114.42:8880?security=reality&encryption=none&pbk=EKtRpOKfl6Ljns-diUnNLiCTKCFiJLmKbofMO5fYSAk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=eae20a5e#Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF
 
 vless://2845e536-8e56-4c3f-a744-51fcbd7816a2@kingston.dnslive.net:65001?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
+
+vless://93bdf899-8fb3-4f13-b936-762ea29d3eaf@95.164.46.203:8880?security=reality&encryption=none&pbk=UlwkEulpJ6XC1fQTXcYmBET2z-L0D9B5dsqsRqViXik&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58226078#Italy%20%F0%9F%87%AE%F0%9F%87%B9
