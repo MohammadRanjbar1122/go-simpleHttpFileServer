@@ -2,7 +2,7 @@
 
 ### A simple go software and program to build a http file server 📂 🌐
 
-**Please give it a stars if you like this simple app (:**
+**Please give it a stars if you like this simple program (:**
 
 ![License](https://img.shields.io/badge/license-MIT-blue) ![Contributors](https://img.shields.io/github/contributors/MohammadRanjbar1122/go-simpleHttpFileServer) ![Stars](https://img.shields.io/github/stars/MohammadRanjbar1122/go-simpleHttpFileServer?style=social)
 
