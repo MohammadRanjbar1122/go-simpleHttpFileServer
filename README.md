@@ -1,6 +1,6 @@
 # HttpFileServer
 
-### A simple go software and program to build a http file server 🎈
+### A simple go software and program to build a http file server 📂 🌐
 
 **Please give it a stars if you like this simple app (:**
 
